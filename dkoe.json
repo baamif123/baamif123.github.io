@@ -1,0 +1,71 @@
+{
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": true,
+    "title": "Update available",
+    "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki",
+    "approved": true,
+    "ads": {
+        "adNetwork": "fb",
+        "frequency": 3,
+        "ids": {
+            "appId": "ca-app-pub-3940256099942544~3347511713",
+            "banner": "IMG_16_9_APP_INSTALL",
+            "inter": "CAROUSEL_IMG_SQUARE_APP_INSTALL",
+            "reward": "ca-app-pub-3940256099942544/5224354917",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "mRec": "/6499/example/rewarded",
+            "appOpen": "ca-app-pub-5320310844464753/6936276268"
+        }
+    },
+    "guide": {
+        "articles": [
+            {
+                "title": "Introduction",
+                "coverUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+                "content": [
+                    {
+                        "subTitle": "Script Powered",
+                        "linkTitle": "",
+                        "Link": "",
+                        "img_url": "",
+                        "text": "With powerful and performant scripting system, you can create any rhythm game engine imaginable.\nWhether it's to replicate an existing game or to create an entirely different engine, you can do it all.",
+                        "isNative": true
+                    },
+                    {
+                        "subTitle": "",
+                        "linkTitle": "GitHub",
+                        "Link": "https://github.com/Sonolus/wiki-sonolus.js-guide-code",
+                        "img_url": "",
+                        "text": "Source code of the guide's one-lane-tap-only rhythm game engine can be found on Github in the following link 👇",
+                        "isNative": false
+                    }
+                ],
+                "articles": []
+            },
+            {
+                "title": "Introduction",
+                "coverUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+                "content": [],
+                "articles": [
+                    {
+                        "title": "Sub Introduction",
+                        "coverUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+                        "content": [
+                            {
+                                "subTitle": "Script Powered 2222",
+                                "linkTitle": "",
+                                "Link": "",
+                                "img_url": "",
+                                "text": "With powerful and performant scripting system, you can create any rhythm game engine imaginable.\nWhether it's to replicate an existing game or to create an entirely different engine, you can do it all.",
+                                "isNative": true
+                            }
+                        ],
+                        "articles": []
+                    }
+                ]
+            }
+        ],
+        "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg"
+    }
+}
