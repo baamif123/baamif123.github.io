@@ -9,11 +9,11 @@
         "adNetwork": "fb",
         "frequency": 3,
         "ids": {
-            "appId": "ca-app-pub-3940256099942544~3347511713",
-            "banner": "IMG_16_9_APP_INSTALL",
-            "inter": "CAROUSEL_IMG_SQUARE_APP_INSTALL",
-            "reward": "ca-app-pub-3940256099942544/5224354917",
-            "native": "ca-app-pub-3940256099942544/2247696110",
+            "appId": "920823388960800",
+            "banner": "920823388960800_920824892293983",
+            "inter": "920823388960800_920824948960644",
+            "reward": "920823388960800_920825165627289",
+            "native": "920823388960800_920825012293971",
             "mRec": "/6499/example/rewarded",
             "appOpen": "ca-app-pub-5320310844464753/6936276268"
         }
